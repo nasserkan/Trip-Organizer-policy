@@ -76,12 +76,12 @@
   <main>
     <h1>Privacy Policy – Trip Organizer</h1>
     <p class="subtitle">
-      <strong>Effective date:</strong> [Insert date]<br>
+      <strong>Effective date:</strong> [11/04/2026]<br>
       <strong>App:</strong> Trip Organizer
     </p>
 
     <div class="notice">
-      <strong>Developer / privacy contact:</strong> [Insert developer or company name and contact email]<br><br>
+      <strong>Developer / privacy contact:</strong> [Nasser Kansoh]<br><br>
       <strong>Important:</strong> This is a customizable template based on the app behavior described by its developer.
       Replace the bracketed details and verify that it matches every SDK, API, permission, and feature in the
       released app before publishing.
@@ -159,8 +159,8 @@
       <h2>12. Contact</h2>
       <p>For privacy questions or requests, contact:</p>
       <ul class="contact-list">
-        <li><strong>Developer:</strong> [Insert developer/company name]</li>
-        <li><strong>Email:</strong> [Insert privacy contact email]</li>
+        <li><strong>Developer:</strong> [Nasser Kansoh/company name]</li>
+        <li><strong>Email:</strong> [kansohnasser@gmail.com]</li>
         <li><strong>Website:</strong> [Insert website, if available]</li>
       </ul>
     </section>
