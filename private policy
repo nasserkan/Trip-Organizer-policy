@@ -1,1 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Privacy Policy for the Trip Organizer app.">
+  <title>Privacy Policy – Trip Organizer</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #243044;
+      --muted: #64748b;
+      --accent: #176b87;
+      --line: #e2e8f0;
+      --paper: #ffffff;
+      --background: #f3f6f9;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 32px 16px;
+      background: var(--background);
+      color: var(--ink);
+      font: 16px/1.7 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: clamp(24px, 5vw, 56px);
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      box-shadow: 0 12px 35px rgba(15, 23, 42, .06);
+    }
+    h1 {
+      margin: 0 0 8px;
+      color: var(--accent);
+      font-size: clamp(2rem, 5vw, 2.6rem);
+      line-height: 1.2;
+    }
+    .subtitle { margin: 0 0 28px; color: var(--muted); }
+    .notice {
+      margin: 24px 0 32px;
+      padding: 16px 18px;
+      border-left: 4px solid var(--accent);
+      background: #eef7fa;
+      border-radius: 6px;
+    }
+    h2 {
+      margin: 32px 0 10px;
+      padding-bottom: 7px;
+      border-bottom: 1px solid var(--line);
+      font-size: 1.25rem;
+      line-height: 1.35;
+    }
+    p { margin: 10px 0; }
+    ul { padding-left: 24px; }
+    li { margin: 7px 0; }
+    a { color: var(--accent); overflow-wrap: anywhere; }
+    .contact-list { list-style: none; padding: 0; }
+    .contact-list li { margin: 8px 0; }
+    footer {
+      margin-top: 40px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: .9rem;
+    }
+    @media (max-width: 600px) {
+      body { padding: 12px 8px; }
+      main { border-radius: 10px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Privacy Policy – Trip Organizer</h1>
+    <p class="subtitle">
+      <strong>Effective date:</strong> [Insert date]<br>
+      <strong>App:</strong> Trip Organizer
+    </p>
+
+    <div class="notice">
+      <strong>Developer / privacy contact:</strong> [Insert developer or company name and contact email]<br><br>
+      <strong>Important:</strong> This is a customizable template based on the app behavior described by its developer.
+      Replace the bracketed details and verify that it matches every SDK, API, permission, and feature in the
+      released app before publishing.
+    </div>
+
+    <section>
+      <h2>1. Introduction</h2>
+      <p>Trip Organizer helps users plan and manage trips, travel tasks and checklists, passport reminders, and destination information. This Privacy Policy explains how information is handled when you use the app.</p>
+    </section>
+
+    <section>
+      <h2>2. Information stored on your device</h2>
+      <p>Trip Organizer stores information you enter in its local Hive database on your device. Depending on the features you use, this may include trip details, dates and tasks, checklist items, passport information for you or family members, and preferences.</p>
+      <p>This locally stored information is not uploaded to a Trip Organizer server by the app as described here. It remains on your device unless you choose to share/export it, your device or another app backs it up, or a feature or SDK described below transmits information. Protect your device with an appropriate screen lock and keep it secure.</p>
+    </section>
+
+    <section>
+      <h2>3. Photos, camera, and gallery</h2>
+      <p>The app may let you take a photo using your device camera or select an existing image from your gallery, for example to attach a picture to travel-related content. Camera or photo access is used only when you invoke the relevant feature. Images selected or captured are handled locally by the app unless you explicitly share them or another enabled feature sends them elsewhere. The app does not use the camera for continuous or background recording.</p>
+      <p>Actual permissions and behavior depend on the Android version and the image-picker implementation used by the app.</p>
+    </section>
+
+    <section>
+      <h2>4. Internet and third-party APIs</h2>
+      <p>Trip Organizer uses an internet connection for certain features, such as retrieving weather information, tourist attractions, destination details, or other travel-related information from third-party APIs.</p>
+      <p>When you request these features, information necessary to fulfill the request (such as a selected destination, country, city, or coordinates if the feature uses them) may be sent to the relevant API provider. Those providers may receive your IP address and request/device metadata. Their handling of information is governed by their own privacy policies and terms.</p>
+      <p>Trip Organizer does not claim control over third-party API providers. Please review the privacy policies of the providers integrated into the app.</p>
+    </section>
+
+    <section>
+      <h2>5. Advertising – Google AdMob</h2>
+      <p>Trip Organizer may display advertisements provided by Google AdMob. Google and its advertising partners may collect or receive information such as IP address, device or advertising identifiers, app interactions, ad interactions, and diagnostic information to deliver, measure, personalize (where permitted), and protect advertising against fraud or abuse.</p>
+      <p>Advertising data may be processed by Google and its partners under their own policies. Ad personalization and consent choices may depend on your location, applicable law, device settings, and the consent options presented in the app. Where required, the app uses Google's consent tools to request and manage advertising consent.</p>
+      <p>For more information, see <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Privacy Policy</a> and <a href="https://support.google.com/admob/answer/6128543" target="_blank" rel="noopener noreferrer">How Google uses information from apps that use its services</a>.</p>
+    </section>
+
+    <section>
+      <h2>6. Data sharing</h2>
+      <p>Trip Organizer does not sell the personal information you store locally. Information may be transmitted to third parties as described in this policy when you use online API features or when advertising SDKs operate. The app may also share information if you choose to use an Android sharing feature, or when required by law or to protect rights and safety.</p>
+    </section>
+
+    <section>
+      <h2>7. Data retention and deletion</h2>
+      <p>Trip and other app records stored in Hive remain on your device until you delete them within the app, clear the app's storage, or uninstall the app (subject to Android backup behavior). You can remove individual records using the app's delete features. Photos saved separately in your device gallery may need to be deleted through your device's photo/gallery app.</p>
+      <p>Trip Organizer does not currently provide a developer-hosted account or cloud database, according to the described app design. If that changes, this policy must be updated.</p>
+    </section>
+
+    <section>
+      <h2>8. Security</h2>
+      <p>Local storage and device security depend partly on Android and your device configuration. Data sent to third-party services is subject to the security practices of those services and the connection they provide. No method of storage or transmission is guaranteed to be completely secure.</p>
+    </section>
+
+    <section>
+      <h2>9. Children's privacy</h2>
+      <p>Trip Organizer is not designed specifically for children. The developer does not knowingly collect children's personal information through a developer-operated account or server. If you believe information has been submitted to the developer in error, contact us using the details below.</p>
+      <p><strong>Developer note:</strong> Review and replace this section if the app's target audience includes children or if family/passport features are used to enter children's information. Google Play Families requirements may apply depending on the declared audience and app content.</p>
+    </section>
+
+    <section>
+      <h2>10. Your choices</h2>
+      <ul>
+        <li>You can choose whether to use online destination/weather features.</li>
+        <li>You can choose whether to provide photos through camera/gallery features.</li>
+        <li>You can manage advertising/privacy choices through any consent or privacy options presented in the app and applicable Android/Google settings.</li>
+        <li>You can delete locally stored records using the app's available controls.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>11. Changes to this Privacy Policy</h2>
+      <p>This policy may be updated when app features, SDKs, API providers, or legal requirements change. The revised policy will be posted at the same public URL with an updated effective date.</p>
+    </section>
+
+    <section>
+      <h2>12. Contact</h2>
+      <p>For privacy questions or requests, contact:</p>
+      <ul class="contact-list">
+        <li><strong>Developer:</strong> [Insert developer/company name]</li>
+        <li><strong>Email:</strong> [Insert privacy contact email]</li>
+        <li><strong>Website:</strong> [Insert website, if available]</li>
+      </ul>
+    </section>
+
+    <footer>© Trip Organizer. Please complete all bracketed placeholders and review the policy before publication.</footer>
+  </main>
+</body>
+</html>
 
